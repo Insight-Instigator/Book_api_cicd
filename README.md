@@ -106,9 +106,10 @@ curl -X PUT "http://localhost:8000/books/1" -H "Content-Type: application/json" 
 }'
 ```
 
-### Delete a book
+### Delete a book and feel peace 
 ```bash
 curl -X DELETE http://localhost:8000/books/1
+
 ```
 
 
