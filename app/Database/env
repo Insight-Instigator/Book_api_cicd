@@ -1,0 +1,5 @@
+DB_USER=RidaMalik
+DB_PASSWORD=09876ridaM
+DB_HOST=fastapidb.cte6qycs0p6q.ap-southeast-2.rds.amazonaws.com
+DB_PORT=5432
+DB_NAME=fastapidb
